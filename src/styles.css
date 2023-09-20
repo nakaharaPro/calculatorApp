@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.calc {
+  background-color: #0488;
+  width: 150px;
+  border: 1px solid #000;
+  text-align: center;
+}
+.display {
+  background-color: #fff;
+}
+.namber {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
